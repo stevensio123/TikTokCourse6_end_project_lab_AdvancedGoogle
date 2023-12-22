@@ -1,10 +1,8 @@
 # Course 6 End-of-course project: Classifying videos using machine learning
 
-In this activity, I will practice using machine learning techniques to predict a binary outcome variable.
+In this project, I will practice using machine learning algorithms including XGBoost and Random Forest to predict whether a TikTok video presents a "claim" or an "opinion".
 
-The purpose of this model is to increase response time and system efficiency by automating the initial stages of the claims process.
-
-The goal of this model is to predict whether a TikTok video presents a "claim" or an "opinion".
+The purpose of this model is to increase response time and system efficiency by automating the initial stages of the process of identifying claims.
 
 ### Data dictionary
 
