@@ -6,9 +6,6 @@ The purpose of this model is to increase response time and system efficiency by 
 
 The goal of this model is to predict whether a TikTok video presents a "claim" or an "opinion".
 
- In this lab portion of the end-of-course project, I will open a Jupyter Notebook and follow instructions to enter code and written responses where prompted.
- Then, I will complete an Executive Summary using the questions listed on the PACE Strategy Document.
-
 ### Data dictionary
 
 This project uses a dataset called `tiktok_dataset.csv`. It contains synthetic data created for this project in partnership with TikTok.
